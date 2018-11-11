@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Lucid</string>
+    <string name="alert">this is a sample alert message</string>
+</resources>
